@@ -40,16 +40,19 @@ stack engineering.
 <img src="https://skillicons.dev/icons?i=js&theme=light" height="16" alt="JavaScript" /> <sub>JavaScript</sub> &nbsp;
 <img src="https://skillicons.dev/icons?i=react&theme=light" height="16" alt="React" /> <sub>React</sub>
 
+
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="16" alt="Node.js" /> <sub>Node.js</sub> &nbsp;
 <img src="https://skillicons.dev/icons?i=express&theme=light" height="16" alt="Express" /> <sub>Express</sub> &nbsp;
 <img src="https://skillicons.dev/icons?i=php&theme=light" height="16" alt="PHP" /> <sub>PHP</sub>
 
+
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="16" alt="MySQL" /> <sub>MySQL</sub> &nbsp;
 <img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="16" alt="MongoDB" /> <sub>MongoDB</sub>
+
 
 **Tools**
 
