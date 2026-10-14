@@ -61,6 +61,5 @@ Front-end developer with 2 years of experience building responsive web applicati
   <sub><strong>CURRENT FOCUS</strong></sub>
   <br />
   <sup>Full-stack development · REST APIs · Database integration</sup>
-  <br /><br />
-  <img src="https://img.shields.io/badge/Always-Learning-0969DA?style=flat-square" alt="Always learning" />
-</div>
+
+ 
