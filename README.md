@@ -1,74 +1,66 @@
+<div align="center">
+
 # BEZAWIT AYAL
 
-<p align="center">
-  <strong>FRONT-END DEVELOPER</strong>
-  <br />
-  <sub>React | JavaScript | Responsive Web Design</sub>
-</p>
+<sub><strong>FRONT-END DEVELOPER</strong></sub>
 
-<p align="center">
-  <a href="https://github.com/bezawit-ayal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/bezawit-ayal-990608373">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<sup>React · JavaScript · Responsive Web Design</sup>
+
+<a href="https://github.com/bezawit-ayal">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/bezawit-ayal-990608373">
+  <img src="https://img.shields.io/badge/LinkedIn-0969DA?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
 
 ---
 
-### PROFILE
+<sub>
 
-<sub>Front-end developer with 2 years of experience building responsive web applications. Currently expanding my skills in backend development and full-stack engineering.</sub>
+### ABOUT
+
+Front-end developer with 2 years of experience building responsive web applications. Currently expanding my skills in backend development and full-stack engineering.
+
+</sub>
+
+<sub>
 
 ### TECHNOLOGIES
 
-**Frontend Development**
+</sub>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html&size=24" height="18" alt="HTML" /> HTML
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=css&size=24" height="18" alt="CSS" /> CSS
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=js&size=24" height="18" alt="JavaScript" /> JavaScript
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=react&size=24" height="18" alt="React" /> React
-</p>
+**Frontend**
 
-**Backend Development**
+<img src="https://skillicons.dev/icons?i=html&theme=light" height="16" alt="HTML" /> <sub>HTML</sub> &nbsp;
+<img src="https://skillicons.dev/icons?i=css&theme=light" height="16" alt="CSS" /> <sub>CSS</sub> &nbsp;
+<img src="https://skillicons.dev/icons?i=js&theme=light" height="16" alt="JavaScript" /> <sub>JavaScript</sub> &nbsp;
+<img src="https://skillicons.dev/icons?i=react&theme=light" height="16" alt="React" /> <sub>React</sub>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs&size=24" height="18" alt="Node.js" /> Node.js
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=express&size=24" height="18" alt="Express" /> Express
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=php&size=24" height="18" alt="PHP" /> PHP
-</p>
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="16" alt="Node.js" /> <sub>Node.js</sub> &nbsp;
+<img src="https://skillicons.dev/icons?i=express&theme=light" height="16" alt="Express" /> <sub>Express</sub> &nbsp;
+<img src="https://skillicons.dev/icons?i=php&theme=light" height="16" alt="PHP" /> <sub>PHP</sub>
 
 **Databases**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql&size=24" height="18" alt="MySQL" /> MySQL
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb&size=24" height="18" alt="MongoDB" /> MongoDB
-</p>
+<img src="https://skillicons.dev/icons?i=mysql&theme=light" height="16" alt="MySQL" /> <sub>MySQL</sub> &nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="16" alt="MongoDB" /> <sub>MongoDB</sub>
 
 **Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git&size=24" height="18" alt="Git" /> Git
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=github&size=24" height="18" alt="GitHub" /> GitHub
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode&size=24" height="18" alt="VS Code" /> VS Code
-</p>
-
-### CURRENT FOCUS
-
-<sub>Full-stack development, REST APIs, database integration, and building practical software projects.</sub>
+<img src="https://skillicons.dev/icons?i=git&theme=light" height="16" alt="Git" /> <sub>Git</sub> &nbsp;
+<img src="https://skillicons.dev/icons?i=github&theme=light" height="16" alt="GitHub" /> <sub>GitHub</sub> &nbsp;
+<img src="https://skillicons.dev/icons?i=vscode&theme=light" height="16" alt="VS Code" /> <sub>VS Code</sub>
 
 ---
 
-<p align="center">
-  <sub>Building useful products. Improving with every project.</sub>
-</p>
+<div align="center">
+  <sub><strong>CURRENT FOCUS</strong></sub>
+  <br />
+  <sup>Full-stack development · REST APIs · Database integration</sup>
+  <br /><br />
+  <img src="https://img.shields.io/badge/Always-Learning-0969DA?style=flat-square" alt="Always learning" />
+</div>
