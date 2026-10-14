@@ -3,7 +3,7 @@
 <p align="center">
   <strong>FRONT-END DEVELOPER</strong>
   <br />
-  <sub>React · JavaScript · Responsive Web Design</sub>
+  <sub>React | JavaScript | Responsive Web Design</sub>
 </p>
 
 <p align="center">
@@ -19,21 +19,53 @@
 
 ### PROFILE
 
-<p>
-  <sub>Front-end developer with 2 years of experience building responsive web applications. Currently expanding my skills in backend development and full-stack engineering.</sub>
-</p>
+<sub>Front-end developer with 2 years of experience building responsive web applications. Currently expanding my skills in backend development and full-stack engineering.</sub>
 
 ### TECHNOLOGIES
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,mysql,mongodb,git,github&theme=light" alt="HTML, CSS, JavaScript, React, Node.js, Express, PHP, MySQL, MongoDB, Git, and GitHub" />
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html&size=24" height="18" alt="HTML" /> HTML
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=css&size=24" height="18" alt="CSS" /> CSS
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=js&size=24" height="18" alt="JavaScript" /> JavaScript
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=react&size=24" height="18" alt="React" /> React
+</p>
+
+**Backend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs&size=24" height="18" alt="Node.js" /> Node.js
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=express&size=24" height="18" alt="Express" /> Express
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=php&size=24" height="18" alt="PHP" /> PHP
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&size=24" height="18" alt="MySQL" /> MySQL
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb&size=24" height="18" alt="MongoDB" /> MongoDB
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git&size=24" height="18" alt="Git" /> Git
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=github&size=24" height="18" alt="GitHub" /> GitHub
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode&size=24" height="18" alt="VS Code" /> VS Code
 </p>
 
 ### CURRENT FOCUS
 
-<p>
-  <sub>Full-stack development, REST APIs, database integration, and building practical software projects.</sub>
-</p>
+<sub>Full-stack development, REST APIs, database integration, and building practical software projects.</sub>
 
 ---
 
