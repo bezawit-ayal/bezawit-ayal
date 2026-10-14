@@ -13,15 +13,17 @@
   <img src="https://img.shields.io/badge/LinkedIn-0969DA?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-</div>
-
 ---
 
 <sub>
 
 ### ABOUT
 
-Front-end developer with 2 years of experience building responsive web applications. Currently expanding my skills in backend development and full-stack engineering.
+Front-end developer with 2 years of experience building responsive web 
+
+applications. Currently expanding my skills in backend development and full-
+
+stack engineering.
 
 </sub>
 
@@ -56,6 +58,7 @@ Front-end developer with 2 years of experience building responsive web applicati
 <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="16" alt="VS Code" /> <sub>VS Code</sub>
 
 ---
+</div>
 
 <div align="center">
   <sub><strong>CURRENT FOCUS</strong></sub>
